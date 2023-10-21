@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.7",
+    "inquirer": "^9.2.10",
+    "number_guessing-game_javascript": "^1.0.0"
+  },
+  "name": "@minam99/ngg",
+  "version": "2.0.0",
+  "main": "main.js",
+  "type":"module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minamrahman727/assignment.git"
+  },
+  "author": "minam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minamrahman727/assignment/issues"
+  },
+  "homepage": "https://github.com/minamrahman727/assignment#readme",
+  "description": ""
+}
